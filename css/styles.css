@@ -1,0 +1,100 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: azure; }
+  
+  h1 {
+    font-family: "Lobster", cursive;
+    text-shadow: 2px 2px #d87093; }
+  
+  h2, h3 {
+    font-family: "Lobster", cursive;
+    color: salmon; }
+  
+  h2 {
+    color: #d87093;
+    text-shadow: 1px 1px salmon; }
+  
+  header h2 {
+    color: linen;
+    text-shadow: 1px 1px rgba(70, 130, 180, 0.8); }
+  
+  p {
+    color: rgba(70, 130, 180, 0.8); }
+  
+  .site-footer {
+    background-color: rgba(255, 192, 203, 0.8);
+    padding: 10px 0px;
+    color: #d87093; }
+  
+  a {
+    color: #d87093; }
+  
+  a:hover {
+    color: rgba(70, 130, 180, 0.8);
+    text-decoration: none; }
+  
+  .jumbotron {
+    padding: 30px;
+    background-color: rgba(255, 192, 203, 0.8);
+    color: linen;
+    margin: 0; }
+  
+  .row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px; }
+  
+  .navbar {
+    background-color: #d87093;
+}
+  
+  .btn {
+    font-family: "Lobster", cursive;
+    color: linen; }
+  
+  .btn:hover {
+    color: salmon;
+    text-decoration: none; }
+  
+  .list-group-item {
+    background-color: #d87093;
+    color: lavenderblush; }
+  
+  .list-group-item:hover {
+    color: #d87093; }
+  
+  #footer-active {
+    background-color: rgba(70, 130, 180, 0.8); }
+  
+  .card {
+    margin: 15px 0px; }
+  
+  .card-header {
+    background-color: salmon; }
+  
+  .card-body {
+    background-color: lavenderblush;
+    color: #d87093; }
+  
+  .breadcrumb {
+    background-color: lavenderblush; }
+  
+  #email {
+    color: darkmagenta; }
+  
+  #email:hover {
+    color: #d87093; }
+  
+  #tel {
+    color: darkmagenta; }
+  
+  #tel:hover {
+    color: #d87093; }
+  
+  h5 {
+    font-family: "Lobster", cursive;
+    color: rgba(70, 130, 180, 0.8); }
+  
+  label {
+    font-family: "Lobster", cursive;
+    color: rgba(70, 130, 180, 0.8); }

@@ -1,6 +1,7 @@
 body {
   font-family: "Book Antiqua", sans-serif;
   color: white;
+  background-color: rgb(14, 14, 44);
 }
 
 h1 {
@@ -22,7 +23,7 @@ header h2 {
 
 .jumbotron {
   padding: 30px;
-  background-color: rgba(255, 192, 203, 0.8);
+  background-color: rgba(26, 16, 63, 0.8);
   color: linen;
   margin: 0;
 }
@@ -34,10 +35,13 @@ header h2 {
 }
 
 .navbar {
-  background-color: palevioletred;
+  background-color: rgb(42, 29, 60);
 }
 
 .breadcrumb {
-  background-color: rgb(68, 7, 45);
+  background-color: rgb(17, 7, 68);
 }
 
+img {
+  border-radius: 5px;
+}
